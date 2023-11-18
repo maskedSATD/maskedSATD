@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: pdf_document
+---
+
+```{r}
+# install.packages("irr")
+library("irr")
+
+data <- read.csv("measure.csv", sep = ";")
+data <- data[, 2:4] 
+kappam.fleiss(data)
+```
+

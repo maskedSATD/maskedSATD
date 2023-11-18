@@ -1,0 +1,92 @@
+Pattern;Rater 1;Rater 2;Rater 3
+why;1;1;1
+probably;0;0;0
+fix;1;1;1
+need to;1;1;1
+implementation;0;0;0
+this needs;1;1;1
+sss;0;0;0
+work around;1;1;1
+package;0;0;0
+temporary;1;1;1
+should this;1;1;1
+should we;1;1;1
+do we need;1;1;1
+perhaps not really necessary;1;1;1
+should be created;1;1;1
+method;0;0;0
+not absolutely necessary;1;1;1;
+extra parameter to specify the;0;1;0
+workaround for;1;1;1
+around;0;0;0
+specify the model;1;0;0
+namespace;0;0;0
+why not;1;1;1
+remove;1;1;1
+tfm;0;0;0
+this code;0;0;0
+element should be created;1;1;1
+bug;1;1;1
+not sure;1;1;1
+nasty hardcoded;1;1;1
+need this;1;1;1
+not used;1;1;1
+think;0;0;0
+thing;0;0;0
+handle;0;0;0
+should really;1;0;1
+another;0;0;0
+should not;0;0;1
+issue;1;1;1
+critic;1;1;1
+later;1;1;1
+revisit;1;1;1
+problem;1;0;1
+bad;1;1;1
+wrong;1;1;1
+problems occur;1;0;1
+remove this;1;1;1
+nice;0;0;0
+wtf;1;1;1
+not yet handled;1;1;1
+extra parameter to specify the model;0;1;0
+should not be;1;1;1
+this perhaps not really necessary;1;1;1
+note this;1;0;0
+rather;0;0;0
+quick fix;1;1;1
+implement this;1;1;1
+workaround;1;1;1
+null;0;1;1
+to handle;1;1;1
+should probably be;1;0;1
+error;1;1;1
+delete;1;1;1
+would be better;1;1;1
+here we;0;0;0
+here <UNK> <UNK> <UNK> <UNK> <UNK>;0;0;0
+is used;0;0;0
+this needs to be;1;1;1
+handled;0;0;0
+argument;0;0;0
+missing;1;1;1
+be removed;1;1;1
+empty block;1;1;1
+dependency;0;0;0
+move this to;1;1;1
+fix this;1;1;1
+is it the best way;1;1;1
+deal with;1;0;1
+to check;1;1;1
+errors;1;1;1
+smarter;1;1;1
+broken;1;1;1
+does this dialect support;0;1;0
+gross;1;1;1
+do n't know;1;1;1
+to specify the model;0;0;0
+plot;0;0;0
+idea;0;0;0
+how to handle;0;1;1
+resolve;1;1;1
+would be nice;1;1;1
